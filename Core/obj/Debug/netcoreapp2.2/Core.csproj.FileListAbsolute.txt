@@ -1,0 +1,12 @@
+D:\my code\pouriapirzadh\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+D:\my code\pouriapirzadh\Core\bin\Debug\netcoreapp2.2\Core.dll
+D:\my code\pouriapirzadh\Core\bin\Debug\netcoreapp2.2\Core.pdb
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.csprojAssemblyReference.cache
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.dll
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.pdb
+D:\my code\pouriapirzadh\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\my code\pouriapirzadh\Core\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+D:\my code\pouriapirzadh\Core\obj\Debug\netcoreapp2.2\Core.csproj.CopyComplete
