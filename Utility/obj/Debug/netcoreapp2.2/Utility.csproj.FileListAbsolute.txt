@@ -1,0 +1,9 @@
+D:\my code\pouriapirzadh\Utility\bin\Debug\netcoreapp2.2\Utility.deps.json
+D:\my code\pouriapirzadh\Utility\bin\Debug\netcoreapp2.2\Utility.dll
+D:\my code\pouriapirzadh\Utility\bin\Debug\netcoreapp2.2\Utility.pdb
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.csproj.CoreCompileInputs.cache
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfoInputs.cache
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.AssemblyInfo.cs
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.dll
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.pdb
+D:\my code\pouriapirzadh\Utility\obj\Debug\netcoreapp2.2\Utility.csprojAssemblyReference.cache
